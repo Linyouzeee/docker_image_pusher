@@ -1,3 +1,5 @@
+registry.k8s.io/ingress-nginx/
+controller:v1.10.1
 nginx:1.20
 nginx:1.22
 nginx:latest
