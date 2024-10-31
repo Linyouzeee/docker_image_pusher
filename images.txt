@@ -24,4 +24,3 @@ php:8-apache
 registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.1
 nginx:1.24
 nginx:1.26
-gcr.io/cadvisor/cadvisor:v0.49.1
